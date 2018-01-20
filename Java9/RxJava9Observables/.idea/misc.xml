@@ -3,8 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Java9/Java9Flow/pom.xml" />
-        <option value="$PROJECT_DIR$/Java9/Java9TransformDataStreamWProcessor/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
